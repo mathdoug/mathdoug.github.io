@@ -18,6 +18,8 @@ Unsupervised Learning
 - t-SNE
 - Hierarchical Clustering
 - K-Means
+- MST Clustering
+- Isolation Forest
 
 Deep Learning
 - MultiLayer Perceptron (MLP)

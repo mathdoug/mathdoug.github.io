@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Blog do Mato
 description: Seja bem-vindo ao blog do mato! Bora falar um pouco sobre Machine Learning?
+markdown: kramdown
+name: Matheus Douglas
+position: Student
+github_url: https://github.com/mathdoug
+linkedin_url: https://www.linkedin.com/in/matheus-douglas-matos-marcondes-3b465b118/
+email_url: mailto:matheusdouglas125@gmail.com
+cv_url: /data/contact/CV_7_english.pdf
+university_name: Ecole polytechnique
+university_url: https://www.polytechnique.edu
+place_name: Paris, France
+url: https://brendanhasz.github.io/
+logo: /data/Photo_moi.jpeg

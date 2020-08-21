@@ -21,6 +21,14 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        {% if post.description %} 
+          <p> {{ post.description }} </p>
+        {% endif %}
+        {% if post.image_url %} 
+          <a href="{{ post.url }}" title="{{ post.title }}">
+            <img src="{{ post.image_url }}" class="center_img">
+          </a>
+        {% endif %}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

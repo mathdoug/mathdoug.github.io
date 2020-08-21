@@ -21,14 +21,25 @@
 title: Blog do Mato
 email: matheusdouglas125@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Seja bem-vindo ao meu blog! Um lugar pra aprender um pouco sobre Machine Learning.
+  Seja bem-vindo ao meu blog! Um lugar pra aprender sobre Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  mathdoug
+linkedin_username: mathdoug
 instagram_username: mathdoug
 
 university_name: Ecole polytechnique
 university_url: https://www.polytechnique.edu
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer
+author: Matheus Douglas
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: "Matheus Douglas"
 
 # Build settings
 # Removed minima themes as it is now a regular theme.
